@@ -9813,10 +9813,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Canchola\\Documents\\Visual Studio 2017\\Projects\\AppDual\\AppDual\\AppDual.csproj",
+      "projectUniqueName": "C:\\Users\\Canchola\\source\\repos\\AppDual\\AppDual\\AppDual.csproj",
       "projectName": "AppDual",
-      "projectPath": "C:\\Users\\Canchola\\Documents\\Visual Studio 2017\\Projects\\AppDual\\AppDual\\AppDual.csproj",
-      "outputPath": "C:\\Users\\Canchola\\Documents\\Visual Studio 2017\\Projects\\AppDual\\AppDual\\obj\\",
+      "projectPath": "C:\\Users\\Canchola\\source\\repos\\AppDual\\AppDual\\AppDual.csproj",
+      "outputPath": "C:\\Users\\Canchola\\source\\repos\\AppDual\\AppDual\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
