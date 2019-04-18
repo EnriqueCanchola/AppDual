@@ -7,3 +7,12 @@ c:\users\canchola\documents\visual studio 2017\Projects\AppDual\AppDual\obj\Rele
 c:\users\canchola\documents\visual studio 2017\Projects\AppDual\AppDual\obj\Release\netcoreapp1.1\AppDual.dll
 c:\users\canchola\documents\visual studio 2017\Projects\AppDual\AppDual\obj\Release\netcoreapp1.1\AppDual.pdb
 c:\users\canchola\documents\visual studio 2017\Projects\AppDual\AppDual\obj\Release\netcoreapp1.1\AppDual.csprojResolveAssemblyReference.cache
+C:\Users\Canchola\source\repos\AppDual\AppDual\bin\Release\netcoreapp1.1\AppDual.deps.json
+C:\Users\Canchola\source\repos\AppDual\AppDual\bin\Release\netcoreapp1.1\AppDual.runtimeconfig.json
+C:\Users\Canchola\source\repos\AppDual\AppDual\bin\Release\netcoreapp1.1\AppDual.runtimeconfig.dev.json
+C:\Users\Canchola\source\repos\AppDual\AppDual\bin\Release\netcoreapp1.1\AppDual.dll
+C:\Users\Canchola\source\repos\AppDual\AppDual\bin\Release\netcoreapp1.1\AppDual.pdb
+C:\Users\Canchola\source\repos\AppDual\AppDual\obj\Release\netcoreapp1.1\AppDual.csprojResolveAssemblyReference.cache
+C:\Users\Canchola\source\repos\AppDual\AppDual\obj\Release\netcoreapp1.1\AppDual.AssemblyInfo.cs
+C:\Users\Canchola\source\repos\AppDual\AppDual\obj\Release\netcoreapp1.1\AppDual.dll
+C:\Users\Canchola\source\repos\AppDual\AppDual\obj\Release\netcoreapp1.1\AppDual.pdb
