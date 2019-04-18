@@ -1,0 +1,39 @@
+﻿<body class="bg-dark">
+
+    <div class="container-fluid">
+        <div class="card card-register mx-auto col-md-12 bg-gray">
+            <div class="card-header text-center"><h1>Inicio de Sesion</h1></div>
+            <div class="card-body">
+
+                <form asp-action="Index" method="post">
+
+                    <div class="form-group">
+                        <div class="col-md-12 text-center">
+                            <label>Usuario</label>
+                            <input type="text" name="User" class="form-control container-fluid" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12 text-center">
+                            <label>Contraseña</label>
+                            <input type="password" name="Pass" class="form-control container-fluid" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <br />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-12 text-center">
+                            <input type="submit" value="Iniciar" class="btn btn-success" />
+                            <a class="btn btn-danger" asp-action="Index">Cancelar</a>
+                        </div>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</body>

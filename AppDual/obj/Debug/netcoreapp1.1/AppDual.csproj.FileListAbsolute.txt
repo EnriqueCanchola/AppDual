@@ -1,0 +1,9 @@
+c:\users\canchola\documents\visual studio 2017\Projects\AppDual\AppDual\bin\Debug\netcoreapp1.1\AppDual.deps.json
+c:\users\canchola\documents\visual studio 2017\Projects\AppDual\AppDual\bin\Debug\netcoreapp1.1\AppDual.runtimeconfig.json
+c:\users\canchola\documents\visual studio 2017\Projects\AppDual\AppDual\bin\Debug\netcoreapp1.1\AppDual.runtimeconfig.dev.json
+c:\users\canchola\documents\visual studio 2017\Projects\AppDual\AppDual\bin\Debug\netcoreapp1.1\AppDual.dll
+c:\users\canchola\documents\visual studio 2017\Projects\AppDual\AppDual\bin\Debug\netcoreapp1.1\AppDual.pdb
+c:\users\canchola\documents\visual studio 2017\Projects\AppDual\AppDual\obj\Debug\netcoreapp1.1\AppDual.csprojResolveAssemblyReference.cache
+c:\users\canchola\documents\visual studio 2017\Projects\AppDual\AppDual\obj\Debug\netcoreapp1.1\AppDual.AssemblyInfo.cs
+c:\users\canchola\documents\visual studio 2017\Projects\AppDual\AppDual\obj\Debug\netcoreapp1.1\AppDual.dll
+c:\users\canchola\documents\visual studio 2017\Projects\AppDual\AppDual\obj\Debug\netcoreapp1.1\AppDual.pdb
