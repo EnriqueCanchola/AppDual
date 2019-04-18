@@ -1,9 +1,0 @@
-c:\Users\Canchola\documents\visual studio 2017\Projects\AppDual\PL\bin\Debug\netcoreapp1.1\PL.deps.json
-c:\Users\Canchola\documents\visual studio 2017\Projects\AppDual\PL\bin\Debug\netcoreapp1.1\PL.runtimeconfig.json
-c:\Users\Canchola\documents\visual studio 2017\Projects\AppDual\PL\bin\Debug\netcoreapp1.1\PL.runtimeconfig.dev.json
-c:\Users\Canchola\documents\visual studio 2017\Projects\AppDual\PL\bin\Debug\netcoreapp1.1\PL.dll
-c:\Users\Canchola\documents\visual studio 2017\Projects\AppDual\PL\bin\Debug\netcoreapp1.1\PL.pdb
-c:\Users\Canchola\documents\visual studio 2017\Projects\AppDual\PL\obj\Debug\netcoreapp1.1\PL.AssemblyInfo.cs
-c:\Users\Canchola\documents\visual studio 2017\Projects\AppDual\PL\obj\Debug\netcoreapp1.1\PL.dll
-c:\Users\Canchola\documents\visual studio 2017\Projects\AppDual\PL\obj\Debug\netcoreapp1.1\PL.pdb
-c:\Users\Canchola\documents\visual studio 2017\Projects\AppDual\PL\obj\Debug\netcoreapp1.1\PL.csprojResolveAssemblyReference.cache
