@@ -10,9 +10,7 @@ c:\users\canchola\documents\visual studio 2017\Projects\AppDual\AppDual\obj\Debu
 C:\Users\Canchola\source\repos\AppDual\AppDual\bin\Debug\netcoreapp1.1\AppDual.deps.json
 C:\Users\Canchola\source\repos\AppDual\AppDual\bin\Debug\netcoreapp1.1\AppDual.runtimeconfig.json
 C:\Users\Canchola\source\repos\AppDual\AppDual\bin\Debug\netcoreapp1.1\AppDual.runtimeconfig.dev.json
-C:\Users\Canchola\source\repos\AppDual\AppDual\bin\Debug\netcoreapp1.1\AppDual.dll
-C:\Users\Canchola\source\repos\AppDual\AppDual\bin\Debug\netcoreapp1.1\AppDual.pdb
 C:\Users\Canchola\source\repos\AppDual\AppDual\obj\Debug\netcoreapp1.1\AppDual.csprojResolveAssemblyReference.cache
+C:\Users\Canchola\source\repos\AppDual\AppDual\obj\Debug\netcoreapp1.1\AppDual.Properties.Resources.resources
+C:\Users\Canchola\source\repos\AppDual\AppDual\obj\Debug\netcoreapp1.1\AppDual.csproj.GenerateResource.Cache
 C:\Users\Canchola\source\repos\AppDual\AppDual\obj\Debug\netcoreapp1.1\AppDual.AssemblyInfo.cs
-C:\Users\Canchola\source\repos\AppDual\AppDual\obj\Debug\netcoreapp1.1\AppDual.dll
-C:\Users\Canchola\source\repos\AppDual\AppDual\obj\Debug\netcoreapp1.1\AppDual.pdb
