@@ -1,7 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Canchola\\.nuget\\packages"
+      "C:\\Users\\Serch\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Serch\\.nuget\\packages"
     ]
   }
 }
