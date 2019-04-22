@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 ﻿ASP.NET Core MVC dependencies have been added to the project.
 (These dependencies include packages required to enable scaffolding)
 
+=======
+﻿
+ASP.NET MVC core dependencies have been added to the project.
+>>>>>>> parent of 2083533... Revert "Cambios"
 However you may still need to do make changes to your project.
 
 1. Suggested changes to Startup class:
@@ -16,7 +21,10 @@ However you may still need to do make changes to your project.
                 .AddEnvironmentVariables();
             Configuration = builder.Build();
         }
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 2083533... Revert "Cambios"
     1.2 Add MVC services:
         public void ConfigureServices(IServiceCollection services)
         {
@@ -24,7 +32,11 @@ However you may still need to do make changes to your project.
             services.AddMvc();
        }
 
+<<<<<<< HEAD
     1.3 Configure web app to use MVC routing:
+=======
+    1.3 Configure web app to use use Configuration and use MVC routing:
+>>>>>>> parent of 2083533... Revert "Cambios"
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
