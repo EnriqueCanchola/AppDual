@@ -1,39 +1,133 @@
-﻿<body class="bg-dark">
+﻿@*<body class="bg-dark">
 
-    <div class="container-fluid">
-        <div class="card card-register mx-auto col-md-12 bg-gray">
-            <div class="card-header text-center"><h1>Inicio de Sesion</h1></div>
-            <div class="card-body">
+        <div class="container-fluid">
+            <div class="card card-register mx-auto col-md-12 bg-gray">
+                <div class="card-header text-center"><h1>Inicio de Sesion</h1></div>
+                <div class="card-body">
 
-                <form asp-action="Index" method="post">
+                    <form asp-action="Index" method="post">
 
-                    <div class="form-group">
-                        <div class="col-md-12 text-center">
-                            <label>Usuario</label>
-                            <input type="text" name="User" class="form-control container-fluid" />
+                        <div class="form-group">
+                            <div class="col-md-12 text-center">
+                                <label>Usuario</label>
+                                <input type="text" name="User" class="form-control container-fluid" />
+                            </div>
                         </div>
+
+                        <div class="form-group">
+                            <div class="col-md-12 text-center">
+                                <label>Contraseña</label>
+                                <input type="password" name="Pass" class="form-control container-fluid" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-12">
+                                <br />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-12 text-center">
+                                <input type="submit" value="Iniciar" class="btn btn-success" />
+                                <a class="btn btn-danger" asp-action="Index">Cancelar</a>
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </body>*@
+
+
+<head>
+
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="images/icons/favicon.ico" />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/css/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/css/hamburgers.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/css/animsition.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/css/select2.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/css/daterangepicker.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/css/util.css">
+    <link rel="stylesheet" type="text/css" href="~/css/main.css">
+    <!--===============================================================================================-->
+</head>
+<body>
+
+    <div class="limiter">
+        <div class="container-login100">
+            <div class="wrap-login100">
+                <form class="login100-form validate-form p-l-55 p-r-55 p-t-178">
+                    <span class="login100-form-title">
+                        Login
+                    </span>
+
+                    <div class="wrap-input100 validate-input m-b-16" data-validate="Por favor introduzca un correo">
+                        <input class="input100" type="text" name="correo" placeholder="Correo">
+                        <span class="focus-input100"></span>
                     </div>
 
-                    <div class="form-group">
-                        <div class="col-md-12 text-center">
-                            <label>Contraseña</label>
-                            <input type="password" name="Pass" class="form-control container-fluid" />
-                        </div>
+                    <div class="wrap-input100 validate-input" data-validate="Por favor introduzca password">
+                        <input class="input100" type="password" name="pass" placeholder="Password">
+                        <span class="focus-input100"></span>
                     </div>
-                    <div class="form-group">
-                        <div class="col-md-12">
-                            <br />
-                        </div>
+                    <!--Para recuperar la contraseña-->
+                    <div class="text-right p-t-13 p-b-23">
+                        <span class="txt1">
+                            Olvidó
+                        </span>
+
+                        <a href="#" class="txt2">
+                            Correo / Password
+                        </a>
                     </div>
-                    <div class="form-group">
-                        <div class="col-md-12 text-center">
-                            <input type="submit" value="Iniciar" class="btn btn-success" />
-                            <a class="btn btn-danger" asp-action="Index">Cancelar</a>
-                        </div>
+
+                    <div class="container-login100-form-btn">
+                        <button class="login100-form-btn">
+                            Entrar
+                        </button>
+                    </div>
+
+                    <div class="flex-col-c p-t-170 p-b-40">
+                        <span class="txt1 p-b-9">
+                            ¿No tienes una cuenta?
+                        </span>
+
+                        <a href="Registro" class="txt3">
+                            Regístrate ahora
+                        </a>
                     </div>
                 </form>
-
             </div>
         </div>
     </div>
+
+
+    <!--===============================================================================================-->
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/js/animsition.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/js/popper.js"></script>
+    <script src="~/lib/dist/js/bootstrap.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/js/select2.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/js/moment.min.js"></script>
+    <script src="~/js/daterangepicker.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/js/countdowntime.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/js/main.js"></script>
+
 </body>
