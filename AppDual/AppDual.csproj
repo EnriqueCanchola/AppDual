@@ -6,9 +6,8 @@
 
   <PropertyGroup>
     <PackageTargetFallback>$(PackageTargetFallback);portable-net45+win8+wp8+wpa81;</PackageTargetFallback>
-    <ApplicationIcon />
-    <Win32Resource />
     <NoWin32Manifest>true</NoWin32Manifest>
+    <SignAssembly>True</SignAssembly>
   </PropertyGroup>
  <!--
   <ItemGroup>
@@ -16,12 +15,25 @@
   </ItemGroup>
   -->
   <ItemGroup>
-    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
-    <PackageReference Include="Microsoft.AspNetCore" Version="1.1.1" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.1.1" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="1.1.2" />
     <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="1.1.1" />
+<<<<<<< HEAD
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="1.1.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="1.1.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="1.1.5" />
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="1.1.1" />
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="1.1.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="1.1.4" />
+=======
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="1.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="1.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="1.1.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="1.1.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="1.1.0" />
+>>>>>>> parent of 2083533... Revert "Cambios"
   </ItemGroup>
   <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.0" />
@@ -36,7 +48,14 @@
     <None Include="wwwroot\images\Triptico3.jpg" />
     <None Include="wwwroot\images\Triptico4.jpg" />
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <ProjectReference Include="..\..\..\..\Documents\Visual Studio 2017\Projects\WS\ML\ML.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+>>>>>>> parent of 2083533... Revert "Cambios"
     <Compile Update="Properties\Resources.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -49,5 +68,19 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
+<<<<<<< HEAD
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Data\" />
+    <Folder Include="Models\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="wwwroot\css\" />
+    <Folder Include="wwwroot\images\" />
+    <Folder Include="wwwroot\js\" />
+  </ItemGroup>
+=======
+>>>>>>> parent of 2083533... Revert "Cambios"
+=======
+>>>>>>> parent of 152fbe1... Merge branch 'master' of https://github.com/EnriqueCanchola/AppDual
 
 </Project>

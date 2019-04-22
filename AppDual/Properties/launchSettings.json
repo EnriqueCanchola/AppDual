@@ -1,11 +1,7 @@
-{
+﻿{
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
-    "iis": {
-      "applicationUrl": "http://localhost/AppDual",
-      "sslPort": 0
-    },
     "iisExpress": {
       "applicationUrl": "http://localhost:50074/",
       "sslPort": 0
@@ -20,7 +16,7 @@
       }
     },
     "AppDual": {
-      "commandName": "IISExpress",
+      "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
