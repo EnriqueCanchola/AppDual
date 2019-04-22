@@ -18,3 +18,16 @@ C:\Users\Canchola\source\repos\AppDual\AppDual\obj\Debug\netcoreapp1.1\AppDual.d
 C:\Users\Canchola\source\repos\AppDual\AppDual\obj\Debug\netcoreapp1.1\AppDual.pdb
 C:\Users\Canchola\source\repos\AppDual\AppDual\obj\Debug\netcoreapp1.1\AppDual.Properties.Resources.resources
 C:\Users\Canchola\source\repos\AppDual\AppDual\obj\Debug\netcoreapp1.1\AppDual.csproj.GenerateResource.Cache
+C:\Users\Christin\Source\Repos\AppDual2\AppDual\bin\Debug\netcoreapp1.1\AppDual.deps.json
+C:\Users\Christin\Source\Repos\AppDual2\AppDual\bin\Debug\netcoreapp1.1\AppDual.runtimeconfig.json
+C:\Users\Christin\Source\Repos\AppDual2\AppDual\bin\Debug\netcoreapp1.1\AppDual.runtimeconfig.dev.json
+C:\Users\Christin\Source\Repos\AppDual2\AppDual\bin\Debug\netcoreapp1.1\AppDual.dll
+C:\Users\Christin\Source\Repos\AppDual2\AppDual\bin\Debug\netcoreapp1.1\AppDual.pdb
+C:\Users\Christin\Source\Repos\AppDual2\AppDual\obj\Debug\netcoreapp1.1\AppDual.csprojAssemblyReference.cache
+C:\Users\Christin\Source\Repos\AppDual2\AppDual\obj\Debug\netcoreapp1.1\AppDual.Properties.Resources.resources
+C:\Users\Christin\Source\Repos\AppDual2\AppDual\obj\Debug\netcoreapp1.1\AppDual.csproj.GenerateResource.cache
+C:\Users\Christin\Source\Repos\AppDual2\AppDual\obj\Debug\netcoreapp1.1\AppDual.csproj.CoreCompileInputs.cache
+C:\Users\Christin\Source\Repos\AppDual2\AppDual\obj\Debug\netcoreapp1.1\AppDual.AssemblyInfoInputs.cache
+C:\Users\Christin\Source\Repos\AppDual2\AppDual\obj\Debug\netcoreapp1.1\AppDual.AssemblyInfo.cs
+C:\Users\Christin\Source\Repos\AppDual2\AppDual\obj\Debug\netcoreapp1.1\AppDual.dll
+C:\Users\Christin\Source\Repos\AppDual2\AppDual\obj\Debug\netcoreapp1.1\AppDual.pdb
