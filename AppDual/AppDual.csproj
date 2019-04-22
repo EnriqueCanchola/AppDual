@@ -6,8 +6,6 @@
 
   <PropertyGroup>
     <PackageTargetFallback>$(PackageTargetFallback);portable-net45+win8+wp8+wpa81;</PackageTargetFallback>
-    <ApplicationIcon />
-    <Win32Resource />
     <NoWin32Manifest>true</NoWin32Manifest>
     <SignAssembly>True</SignAssembly>
   </PropertyGroup>
@@ -50,6 +48,7 @@
     <None Include="wwwroot\images\Triptico3.jpg" />
     <None Include="wwwroot\images\Triptico4.jpg" />
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
 <<<<<<< HEAD
 =======
@@ -81,5 +80,7 @@
   </ItemGroup>
 =======
 >>>>>>> parent of 2083533... Revert "Cambios"
+=======
+>>>>>>> parent of 152fbe1... Merge branch 'master' of https://github.com/EnriqueCanchola/AppDual
 
 </Project>
